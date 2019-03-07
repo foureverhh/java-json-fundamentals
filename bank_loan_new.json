@@ -1,0 +1,21 @@
+{
+  "name":"Tom",
+  "purposeOfLoan":"To buy a car.",
+  "loanDetails":{
+    "amount":10000,
+    "endDate":"2020-01-01",
+    "startDate":"2019-01-01"
+  },
+  "jobs":[
+    {
+      "annualIncome":10000,
+      "yearsActive":1,
+      "title":"Freelance"
+    },
+    {
+      "annualIncome":20000,
+      "yearsActive":2,
+      "title":"Part time Developer"
+    }
+  ]
+ }
